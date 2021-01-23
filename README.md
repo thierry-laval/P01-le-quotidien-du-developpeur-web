@@ -46,7 +46,7 @@ Le sujet du projet 1 du parcours Développeur web chez Openclassrooms est de vou
 
 → Voir le dépot sur [Github](https://github.com/thierry-laval/Le-quotidien-du-developpeur-web)\
 → Voir le [planning de formation](P1_01_planning_weeks_months.pdf)\
-→ Voir la [veille avec Keep](P1_02_outil_veille_Keep.png)
+→ Voir la [veille avec Keep](P1_02_outil_veille_Keep.png)\
 → Voir l'[offre d'emploi](P1_03_offre_emploi.pdf)
 
 ###### Vidéo de présentation
