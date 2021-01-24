@@ -11,12 +11,14 @@ _`Début de formation le 20/04/2020`_
 * Visitez ==> 🏠 [Site Web](https://thierrylaval.dev)
 
 ***
-## 📎 Projet 1- Découvrez le quotidien d'un développeur web.
+
+## 📎 Projet 1- Découvrez le quotidien d'un développeur web
+
 ![left 100%](00_Projet_1_OCR/projet1.png?raw=true)
 ***
-Le sujet du projet 1 du parcours Développeur web chez Openclassrooms est de vous donner toutes les clés pour réussir votre parcours, puis votre insertion professionnelle en tant que développeur ! 
+Le sujet du projet 1 du parcours Développeur web chez Openclassrooms est de vous donner toutes les clés pour réussir votre parcours, puis votre insertion professionnelle en tant que développeur !
 
-###### 👀  &nbsp; Voir Le projet d'OpenClassrooms:
+###### 👀  &nbsp; Voir Le projet d'OpenClassrooms
 
 * [Mission](00_Projet_1_OCR/1_mission.pdf "Cliquez pour voir le projet")
 * [Cours](00_Projet_1_OCR/2_cours.pdf "Cliquez pour voir le projet")
@@ -31,7 +33,7 @@ Le sujet du projet 1 du parcours Développeur web chez Openclassrooms est de vou
 
 ***
 
-#### Utilisé dans ce projet
+#### 📦  &nbsp; Utilisé dans ce projet
 
 
 | Outils         |                    |
@@ -42,11 +44,11 @@ Le sujet du projet 1 du parcours Développeur web chez Openclassrooms est de vou
 
 ***
 
-#### 🚦Les documents de présentation et livrables
+#### 🚦 Les documents de présentation et livrables
 
 → Voir le dépot sur [Github](https://github.com/thierry-laval/Le-quotidien-du-developpeur-web)\
 → Voir le [planning de formation](P1_01_planning_weeks_months.pdf)\
-→ Voir la [veille avec Keep](P1_02_outil_veille_Keep.png)\
+→ Voir la [veille avec Keep](P1_02_outil_veille_Keep.pdf)\
 → Voir l'[offre d'emploi](P1_03_offre_emploi.pdf)
 
 ###### Vidéo de présentation
