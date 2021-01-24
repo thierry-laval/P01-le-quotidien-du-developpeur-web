@@ -18,13 +18,13 @@ _`Début de formation le 20/04/2020`_
 ***
 Le sujet du projet 1 du parcours Développeur web chez Openclassrooms est de vous donner toutes les clés pour réussir votre parcours, puis votre insertion professionnelle en tant que développeur !
 
-###### 👀  &nbsp; Voir Le projet d'OpenClassrooms
+### 👀  &nbsp; Voir Le projet d'OpenClassrooms
 
 * [Mission](00_Projet_1_OCR/1_mission.pdf "Cliquez pour voir le projet")
 * [Cours](00_Projet_1_OCR/2_cours.pdf "Cliquez pour voir le projet")
 * [Évaluation](00_Projet_1_OCR/3_evaluation.pdf "Cliquez pour voir le projet")
 
-#### Objectifs et Compétences évalué
+#### 📈  &nbsp; Objectifs et Compétences évalué
 
 * Mettre en place un tableau de bord de veille technologique
 * Sélectionner des sources pertinentes pour une veille technologique
