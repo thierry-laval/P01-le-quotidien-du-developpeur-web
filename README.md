@@ -12,7 +12,7 @@ _`Début de formation le 20/04/2020`_
 
 ***
 
-## 📎 Projet 1- Découvrez le quotidien d'un développeur web
+### 📎 Projet 1- Découvrez le quotidien d'un développeur web
 
 ![left 100%](00_Projet_1_OCR/projet1.png?raw=true)
 ***
