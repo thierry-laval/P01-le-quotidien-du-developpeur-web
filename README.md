@@ -24,6 +24,10 @@ Le sujet du projet 1 du parcours Développeur web chez Openclassrooms est de vou
 * [Cours](00_Projet_1_OCR/2_cours.pdf "Cliquez pour voir le projet")
 * [Évaluation](00_Projet_1_OCR/3_evaluation.pdf "Cliquez pour voir le projet")
 
+  #### 🔖  &nbsp; Contexte du projet
+
+  * L’objectif de ce premier projet est de vous donner toutes les clés pour réussir votre parcours, puis votre insertion professionnelle !
+
 #### 📈  &nbsp; Objectifs et Compétences évalué
 
 * Mettre en place un tableau de bord de veille technologique
@@ -35,16 +39,22 @@ Le sujet du projet 1 du parcours Développeur web chez Openclassrooms est de vou
 
 #### 📦  &nbsp; Utilisé dans ce projet
 
-
 | Outils         |                    |
 | :-------------:|:-------------:     |
 | Google Drive   | Keynote/Pages      |
 | Google Agenda  | Git/GitHub         |
 | Google Keep    | Visual Studio Code |
 
+* Les cours en ligne d'OpenClassrooms
+  * [Apprenez à apprendre](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre)
+  * [Comprendre le Web](https://openclassrooms.com/fr/courses/1946386-comprendre-le-web)
+  * [Mettez en place un système de veille informationnelle](https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle)
+  * [Développez vos soft kills](https://openclassrooms.com/fr/courses/6692406-developpez-vos-soft-skills)
+  * [Découvrez les métiers de développeur](https://openclassrooms.com/fr/courses/6817086-decouvrez-les-metiers-de-developpeur)
+
 ***
 
-#### 🚦 Les documents de présentation et livrables
+#### 🚦 &nbsp; Les documents de présentation et livrables
 
 → Voir le dépot sur [Github](https://github.com/thierry-laval/Le-quotidien-du-developpeur-web)\
 → Voir le [planning de formation](P1_01_planning_weeks_months.pdf)\
