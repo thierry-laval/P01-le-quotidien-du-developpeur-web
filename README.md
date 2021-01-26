@@ -73,7 +73,7 @@ Le sujet du projet 1 du parcours Développeur web chez Openclassrooms est de vou
 
 Copyright © 2020 [Thierry Laval](https://github.com/thierry-laval).
 
-Ce projet est sous licence [MIT](/backend/LICENCE).
+Ce projet est sous licence [MIT](LICENCE).
 
 ***
 
