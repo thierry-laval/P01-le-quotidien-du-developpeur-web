@@ -51,7 +51,7 @@ Le sujet du projet 1 du parcours Développeur web chez Openclassrooms est de vou
 → Voir la [veille avec Keep](P1_02_outil_veille_Keep.pdf)\
 → Voir l'[offre d'emploi](P1_03_offre_emploi.pdf)
 
-###### Vidéo de présentation
+##### Vidéo de présentation
 
 * Cette vidéo décrit rapidement l'organisation du planning.
 
