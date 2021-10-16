@@ -4,7 +4,7 @@ _`Début de formation le 20/04/2020`_
 
 ## Auteur
 
-👤 &nbsp; **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>)
+👤 &nbsp; **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<contact@thierrylaval.dev>)
 
 * Github: [@Thierry Laval](https://github.com/thierry-laval)
 * LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
@@ -12,11 +12,15 @@ _`Début de formation le 20/04/2020`_
 
 ***
 
-### 📎 Projet 1- Découvrez le quotidien d'un développeur web
+### 📎 Projet 01 - Découvrez le quotidien d'un développeur web
 
 ![left 100%](00_Projet_1_OCR/projet1.png?raw=true)
+
+_`Début du projet le 21/04/2020`_
+
 ***
-Le sujet du projet 1 du parcours Développeur web chez Openclassrooms est de vous donner toutes les clés pour réussir votre parcours, puis votre insertion professionnelle en tant que développeur !
+
+Le sujet du projet 01 du parcours Développeur web chez Openclassrooms est de vous donner toutes les clés pour réussir votre parcours, puis votre insertion professionnelle en tant que développeur !
 
 ### 👀  &nbsp; Voir Le projet d'OpenClassrooms
 
@@ -24,9 +28,9 @@ Le sujet du projet 1 du parcours Développeur web chez Openclassrooms est de vou
 * [Cours](00_Projet_1_OCR/2_cours.pdf "Cliquez pour voir le projet")
 * [Évaluation](00_Projet_1_OCR/3_evaluation.pdf "Cliquez pour voir le projet")
 
-  #### 🔖  &nbsp; Contexte du projet
+#### 🔖  &nbsp; Contexte du projet
 
-  * L’objectif de ce premier projet est de vous donner toutes les clés pour réussir votre parcours, puis votre insertion professionnelle !
+* L’objectif de ce premier projet est de vous donner toutes les clés pour réussir votre parcours, puis votre insertion professionnelle !
 
 #### 📈  &nbsp; Objectifs et Compétences évalué
 
@@ -67,16 +71,30 @@ Le sujet du projet 1 du parcours Développeur web chez Openclassrooms est de vou
 
 [![OpenClassrooms Projet 1](http://img.youtube.com/vi/tRvPEQjn_R0/0.jpg)](http://www.youtube.com/watch?feature=player_embedded&v=tRvPEQjn_R0 "Visionnez sur YouTube")
 
+### Merci à tous
+
 ***
 
-##### 📝 &nbsp; License
+#### 📝 &nbsp; License
 
-Copyright © 2020 [Thierry Laval](https://github.com/thierry-laval).
+Copyright © 2020 [Thierry Laval](https://gthierrylaval.dev).
 
 Ce projet est sous licence [MIT](LICENCE).
 
+[Voir mon travail](https://github.com/thierry-laval)
+
+[Créer un bon template](https://github.com/thierry-laval/P22-template-pour-un-readme)
+
 ***
+
+### &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
 
 Donnez une ⭐️ &nbsp; si ce projet vous a plu !
 
-<p>&hearts; Love Markdown<p>
+<span style="font-family:Papyrus; font-size:4em;">FAN DE GITHUB !</span>
+
+<!--[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)-->
+
+<a href="url"><img src="https://myoctocat.com/assets/images/base-octocat.svg" height="300"></a>
+
+**[⬆ Retour en haut](#auteur)** <br>
