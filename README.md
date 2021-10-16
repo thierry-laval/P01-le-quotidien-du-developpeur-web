@@ -32,7 +32,7 @@ Le sujet du projet 01 du parcours Développeur web chez Openclassrooms est de vo
 
 * L’objectif de ce premier projet est de vous donner toutes les clés pour réussir votre parcours, puis votre insertion professionnelle !
 
-#### 📈  &nbsp; Objectifs et Compétences évalué
+#### 📈  &nbsp; Objectifs et Compétences évalués
 
 * Mettre en place un tableau de bord de veille technologique
 * Sélectionner des sources pertinentes pour une veille technologique
@@ -60,7 +60,7 @@ Le sujet du projet 01 du parcours Développeur web chez Openclassrooms est de vo
 
 #### 🚦 &nbsp; Les documents de présentation et livrables
 
-→ Voir le dépot sur [Github](https://github.com/thierry-laval/Le-quotidien-du-developpeur-web)\
+→ Voir le dépôt sur [Github](https://github.com/thierry-laval/Le-quotidien-du-developpeur-web)\
 → Voir le [planning de formation](P1_01_planning_weeks_months.pdf)\
 → Voir la [veille avec Keep](P1_02_outil_veille_Keep.pdf)\
 → Voir l'[offre d'emploi](P1_03_offre_emploi.pdf)
@@ -77,7 +77,7 @@ Le sujet du projet 01 du parcours Développeur web chez Openclassrooms est de vo
 
 #### 📝 &nbsp; License
 
-Copyright © 2020 [Thierry Laval](https://gthierrylaval.dev).
+Copyright © 2020 [Thierry Laval](https://thierrylaval.dev)
 
 Ce projet est sous licence [MIT](LICENCE).
 
